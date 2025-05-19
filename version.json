@@ -1,4 +1,4 @@
 {
   "version": "1.1.1",
-  "release_notes": "Aumento na velocidade de processamento das fontes pagadoras, Hotfix DCTF em .dec, notas de atualização acessível por link link"
+  "release_notes": "Aumento na velocidade de processamento das fontes pagadoras, Download da DCTF em .dec não estava funcionando, notas de atualização acessível por link web"
 }
