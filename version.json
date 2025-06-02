@@ -1,4 +1,9 @@
 {
-  "version": "1.1.1",
-  "release_notes": "Aumento na velocidade de processamento das fontes pagadoras, Download da DCTF em .dec não estava funcionando, notas de atualização acessível por link web"
+  "version": "1.2.0",
+  "release_notes": ["Inclusão do código de requisição de PERDCOMP/WEB e Consulta Processamento PERDCOMP",
+                    "Se o documento não for encontrado no PERDCOMP/WEB, ele é salvo dentro de um arquivo .json chamado '{cnpj}_perdcomp_web_documents_not_found.json'",
+                    "Inclusão do código de consulta das outorgas",
+                    "Alteração na interface para a horizontal e novo visual",
+                    "Correção do erro que não encerrava o código assim que fechava a interface",
+                    "Outras correções menores"]
 }
