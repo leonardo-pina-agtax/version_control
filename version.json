@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "release_notes": ["Correção de duplicidade na baixa da DCTF em .dec",
                     "Adição do Cartão CNPJ para baixa",
                     "Adição da baixa de DIRF",
